@@ -1,0 +1,9 @@
+package school;
+
+public class Main {
+    public static void main(String[] args) {
+        Student student1 = new Student();
+        student1.captureDetails();
+        student1.displayStudentInfo();
+    }
+}
